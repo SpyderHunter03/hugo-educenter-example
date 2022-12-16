@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://educenter.tristangoetz.me"
 title = "Educenter | hugo education template"
-theme = "educenter"
+theme = "educenter-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
